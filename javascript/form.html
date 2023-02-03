@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>form validation</title>
+    <link rel="stylesheet" href="/javascript/form.css">
+</head>
+
+<body  class="container-fluid">
+    <div class="container cover ">
+        <div class="row back ">
+            <h2>Register Form</h2>
+            <div class="  col-sm-12 col-mg-12 col-lg-12 form">
+                <div class="detail">
+                    <label class="text"> first name </label>
+                    <input  class="box" type="text" id="fname" placeholder="Enter Your First Name ">
+                    <p class="mes" id="error"></p>
+                </div>
+
+                <div class="detail">
+                    <label class="text"> last name </label>
+                    <input  class="box" type="text" id="lname" placeholder="Enter Your Last Name ">
+                    <p class="mes" id="error1"></p>
+                </div>
+
+                <div class="detail">
+                    <label class="text">email </label>
+                    <input class="box" type="email" id="Email" placeholder="abc123@gmail.com">
+                    <p class="mes" id="error3"></p>
+                </div>
+
+                
+                <div class="detail">
+                    <label class="text"> phone number</label>
+                    <input class="box" type="text" id="pn" pattern="[0-9] {10}" min="0" maxlength="10" placeholder="+91 9876543210">
+                    <p class="mes" id="error4"></p>
+
+                </div>
+
+                <div class="detail">
+                    <label class="text"> password </label>
+                    <input class="box" type="password" id="pwd" placeholder="Password">
+                    <p class="mes" id="error5"></p>
+                </div>
+                <div class="detail">
+                    <label class="text"> Confirm Password </label>
+                    <input class="box" type="password" id="pwd1" placeholder="Confirm Password">
+                    <p class="mes" id="error6"></p>
+                </div>
+                <div class="radio detail">
+                    <p class="text " >gender :</p>
+                    <p class="gen1">male :<input  class="gen" type="radio" name="gender" id="radio1"></p>
+                    <p class="mes mf" id="error7"></p>
+
+                    <p class="gen1">female :<input class="gen" type="radio" name="gender" id="radio2"></p>
+                    <p class="mes mf" id="error8"></p>
+
+                </div>
+                <div class="check detail">
+
+                    <input class="check1" type="checkbox" name="" id="c-box">     I  Accept To The Term Of Condition
+                    <p class="mes cb" id="error9"></p>
+
+
+                </div>
+
+
+                <button class="submit" onclick="myfun()">submit</button>
+
+
+            </div>
+
+
+        </div>
+    </div>
+
+
+
+
+
+
+
+    <script src="/javascript/form.js"></script>
+
+</body>
+
+</html>

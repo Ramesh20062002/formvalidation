@@ -1,0 +1,382 @@
+body {
+    background-image: url(https://wallpapercave.com/wp/wp5489088.jpg);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+}
+
+* {
+
+    padding: 0%;
+    margin: 0%;
+}
+
+/* 
+.back{
+
+    background-color: rgb(13, 105, 133);
+    width: 45%;
+    height: 590px;
+    align-self: center;
+    margin-left: 340px;
+    margin-top: 4px;
+    border-radius: 12px;
+    padding: 12px 8px;
+}
+.back h2{
+
+    text-align: center;
+   padding:12px ;
+ font-size: 32px;
+ font-weight: 800;
+ color: beige;
+ text-shadow: 6px 6px 8px black;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.form{
+text-align: center;
+padding: 25px 35px;
+}
+.detail{
+
+    margin-top:20px;
+ 
+}
+label{
+    font-size: 20px;
+    text-transform: capitalize;
+    font-weight: 700;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 12px;
+}
+input{
+    padding: 4px 8px;
+   width: 100%;
+   border: 1px solid rgb(25, 149, 187);
+   margin-top: 4px;
+   border-radius: 4px;
+   outline: none;
+color: rgb(65, 61, 61);
+   background-color: rgb(13, 105, 133);
+
+}
+
+button{
+    padding: 8px 50px;
+    font-size: 16px;
+    font-weight: 700;
+    border-radius: 6px;
+    text-transform: capitalize;
+    background-color: rgb(138, 144, 22);
+    color: beige;
+    border: 2px solid black;
+   
+
+  
+}
+
+
+button:hover{
+
+    background-color: rgb(13, 105, 133);
+    color: rgb(0, 0, 0);
+    outline: none;
+}
+
+.mes{
+
+    color: red;
+}
+
+.radio{
+
+    display: flex;
+    margin-left: 60px;
+    color: black;
+} 
+
+.radio p{
+    font-size: 20px;
+    text-transform: capitalize;
+    font-weight: 700;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 12px;
+}
+.gen1{
+    display: flex;
+    margin-left: 10px;
+    font-size: 20px;
+    text-transform: capitalize;
+    font-weight: 700;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 12px;
+}
+.check{
+    border: 1px solid black;
+}
+.check2{
+
+ display: flex;
+}
+.check1{
+ display: flex;
+ margin-right: 800px;
+} */
+/* .gen{
+    margin-left: 10px;
+    
+} */
+/* .top {
+
+    font-size: 35px;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 700;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 35px;
+ 
+} */
+/* h2{
+    font-size: 32px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: capitalize;
+    font-weight: 600;
+    color: rgb(46, 129, 162);
+    
+}
+
+input{
+    outline: none;
+    border: none;
+ padding: 4px 8px;
+ width: 25%;
+ justify-self: center;
+}
+label{
+    font-size: 20px;
+    font-weight: 800;
+text-transform: capitalize;
+color: rgb(2, 2, 2);
+}
+.top{
+    margin-top: 0;
+    text-align: center;
+    background-color: rgb(41, 45, 45) ;
+
+    height: 400px;
+    width: 60%;
+    padding: 25px 35px;
+ margin-left: 250px;
+
+ 
+} */
+
+/* 
+
+
+
+
+.call-form {
+ 
+    background-color: rgb(37, 40, 71);
+    width: 45%;
+    margin-top: px;
+    height: 800px;
+    margin-left: 300px;
+   padding: 12px 45px;
+    border-radius: 10px;
+
+
+} */
+/* 
+.call-form input {
+    width: 100%;
+    height: 30px;
+    border: none;
+     margin-right: 45px;
+    margin: 12px;
+    margin-top:20px;
+    text-align: center;
+    border-bottom: rgba(126, 137, 156, 0.597) solid 2px;
+    background-color: rgb(229, 219, 225);
+    outline: none;
+    border-radius: 3px;
+} */
+
+/* 
+.call-form .mes {
+    width: 100%;
+    height: 80px;
+    border-bottom: rgba(126, 137, 156, 0.597) solid 2px;
+    text-align: center;
+}
+.gen{
+    display: inline;
+}
+
+
+
+.call-form button {
+    width: 100%;
+    height: 45px;
+    margin-left: 15px;
+    color: white;
+    background-color: rgb(255, 179, 37);
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    border: none;
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+    color: orange;
+    width: 100%;
+}
+
+p {
+    color: red;
+    margin-top: -8PX;
+    margin-left: 280PX;
+    margin-bottom: 2px;
+    font-size: 16px;
+    font-weight: 500;
+} */
+
+.back {
+
+
+    background-color: rgb(13, 105, 133);
+    width: 45%;
+    height: 600px;
+    text-align: center;
+    margin-left: 350px;
+    border-radius: 8px;
+    margin-top: 12px;
+
+}
+
+.back h2 {
+    color: white;
+
+    padding: 12px;
+    border-bottom: 2px solid rgb(0, 0, 0);
+    background-color: rgb(162, 72, 72);
+    border-radius: 8px;
+    font-size: 32px;
+    text-shadow: 4px 6px 6px rgb(0, 0, 0);
+}
+
+.form {
+    padding: 24px;
+}
+
+.detail {
+    padding: 4px;
+    text-align: left;
+    height: 50px;
+}
+
+.box {
+    display: block;
+    margin-top: 4px;
+    width: 100%;
+    padding: 3px;
+    outline: none;
+    border: none;
+    border-radius: 4px;
+    background-color: rgb(13, 105, 133);
+    border: 1px solid rgb(44, 125, 200);
+
+}
+
+.radio {
+
+    display: flex;
+    margin-left: -13px;
+    color: black;
+    margin-top: -10px;
+}
+
+.radio p {
+
+    text-transform: capitalize;
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 12px;
+}
+
+.text {
+
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: capitalize;
+
+}
+
+.mes {
+    text-align: center;
+    color: rgb(239, 21, 21);
+    text-transform: capitalize;
+    font-weight: 700;
+    font-size: 12px;
+    margin-top: 2px;
+}
+
+.gen1 {
+    display: flex;
+    margin-left: 10px;
+
+    text-transform: capitalize;
+    font-weight: 600;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 12px;
+}
+
+.gen {
+
+    margin-left: 4px;
+}
+
+.check {
+    font-size: 14px;
+    font-weight: 600;
+
+
+}
+
+
+button {
+    margin-top: px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 6px 24px;
+    border-radius: 7px;
+    border: 1px solid rgb(47, 163, 208);
+    outline: none;
+    color: rgb(6, 6, 6);
+    background-color: rgb(162, 72, 72);
+
+
+}
+
+button:hover {
+    background-color: rgb(13, 105, 133);
+    color: white;
+    cursor: pointer;
+
+}
+.mf{
+    margin-top: 5px;
+}
+
+.cb{
+
+    margin-top: 4px;
+    margin-right: 185px;
+}
